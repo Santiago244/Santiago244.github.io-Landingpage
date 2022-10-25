@@ -371,7 +371,7 @@
         animation: deploy 4s ease-out;
     }
     .img__cellphone{
-        width: 90%;
+        width: 30%;
         z-index: -1;
         height: 90%;
         object-fit:fill;
