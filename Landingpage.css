@@ -373,7 +373,7 @@
     .img__cellphone{
         width: 50%;
         z-index: -1;
-        height: 60%;
+        height: 90%;
         object-fit:fill;
         object-position:bottom;
         position:absolute;
